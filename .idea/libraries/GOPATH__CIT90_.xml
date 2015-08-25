@@ -9,6 +9,7 @@
     <excluded>
       <root url="file://$PROJECT_DIR$/../../gorilla/securecookie/.git" />
       <root url="file://$PROJECT_DIR$/../../julienschmidt/httprouter/.git" />
+      <root url="file://$PROJECT_DIR$/CIT90/.idea" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/cmd/stringer/testdata" />
       <root url="file://$PROJECT_DIR$/../../fccstudent/CIT90/.git" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/callgraph/cha/testdata" />
@@ -71,6 +72,7 @@
       <root url="file://$PROJECT_DIR$/../../../google.golang.org/appengine/.git" />
       <root url="file://$PROJECT_DIR$/../../../google.golang.org/grpc/test/testdata" />
       <root url="file://$PROJECT_DIR$/../../rwcarlsen/goexif/.git" />
+      <root url="file://$PROJECT_DIR$/CIT90/.git" />
     </excluded>
   </library>
 </component>
