@@ -9,5 +9,12 @@ func main() {
 	name = "Dan"
 	myname = "Hello " + name + "."
 
-	fmt.Println( myname )
+	fmt.Println(myname)
+
+	LessCodeForSameResult()
+}
+
+func LessCodeForSameResult() {
+	name := "Dan"
+	fmt.Print("Hello ", name, ".")
 }
