@@ -16,5 +16,5 @@ func main() {
 
 func LessCodeForSameResult() {
 	name := "Dan"
-	fmt.Print("Hello ", name, ".")
+	fmt.Println("Hello ", name, ".")
 }
