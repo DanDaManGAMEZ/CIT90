@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="GOPATH &lt;CIT90&gt;">
+  <library name="GOPATH &lt;cit90&gt;">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../../../google.golang.org" />
       <root url="file://$PROJECT_DIR$/../.." />
@@ -14,8 +14,8 @@
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/cmd/stringer/testdata" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/callgraph/cha/testdata" />
       <root url="file://$PROJECT_DIR$/.idea" />
-      <root url="file://$PROJECT_DIR$/main/.idea" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/callgraph/rta/testdata" />
+      <root url="file://$PROJECT_DIR$/main/.idea" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/oracle/testdata" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/ssa/interp/testdata" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/gcimporter/testdata" />
